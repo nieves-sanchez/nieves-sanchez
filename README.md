@@ -25,9 +25,8 @@ Proyecto completo de análisis de rotación de empleados: EDA, modelado relacion
 
 
 ### 🎵 MusicStream — Análisis de tendencias musicales
-https://github.com/nieves-sanchez/musicstream-listening-trends-analysis.git
 
-🔗 
+🔗 https://github.com/nieves-sanchez/musicstream-listening-trends-analysis.git
 
 ---
 
