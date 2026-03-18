@@ -19,14 +19,20 @@ Mi objetivo es fortalecer bien los fundamentos antes de profundizar en áreas m�
 ## 🚀 Proyectos destacados
 
 ### 📊 HR Attrition — End-to-End Analytics
-Proyecto completo de análisis de rotación de empleados: EDA, modelado relacional, pipeline ETL y segmentación de riesgo.
+Análisis de rotación de empleados mediante pipeline de limpieza y transformación de datos en Python, modelado relacional en MySQL y análisis exploratorio para identificar factores asociados a la rotación
 
 🔗 https://github.com/nieves-sanchez/hr-attrition-end-to-end-analytics
 
 
 ### 🎵 MusicStream — Análisis de tendencias musicales
+Análisis de datos musicales mediante extracción desde APIs de Spotify y Last.fm, limpieza y exploración de datos para identificar patrones de consumo y tendencias en el mercado musical.
 
 🔗 https://github.com/nieves-sanchez/musicstream-listening-trends-analysis.git
+
+### 🎵 Mental Health in Tech
+Análisis de datos del sector tecnológico para estudiar la relación entre salud mental y entorno laboral mediante limpieza, análisis exploratorio y visualización en Power BI.
+
+🔗 [https://github.com/nieves-sanchez/musicstream-listening-trends-analysis.git](https://github.com/nieves-sanchez/mental-health-tech-powerbi-analysis)
 
 ---
 
