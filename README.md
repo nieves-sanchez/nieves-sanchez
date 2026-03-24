@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/nieves-sanchez-data">
     <img src="https://img.shields.io/badge/LinkedIn-Nieves%20Sánchez-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/nieves-sanchez">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
