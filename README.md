@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Nieves</h1>
 <p align="center">
-  <strong>Data Analyst · Excel · Power BI · SQL · Python · Tableau</strong><br>
+  <strong>Data Analyst · Python · SQL · Power BI · Tableau · Excel</strong><br>
   Mallorca, España · presencial, híbrido o remoto
 </p>
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## Sobre mí
 
-Empiezo cualquier análisis por la calidad del dato. Vengo de 15 años en administración, atención al cliente y control de calidad, y sé dónde suele estropearse la información de un negocio: registros hechos a mano, criterios que cambian, totales que no cuadran.
+Empiezo cualquier análisis por la calidad del dato. Vengo de más de 15 años en administración, atención al cliente y control de calidad, una experiencia que me ha enseñado la importancia de cuidar bien la limpieza y la organización de los datos, y cómo se usan para tomar decisiones reales de negocio.
 
 En mi último proyecto he reorganizado los datos económicos de una constructora: he revisado el histórico con Python, he rediseñado su Excel para que cada factura quede vinculada a obra, cliente y categoría y avise de los errores al introducirlos, y le he preparado un cuadro de mando en Power BI. Es un proyecto privado, así que sus datos no están aquí.
 
-Este año me he formado en el Bootcamp de Data Analytics & IA de Adalab. Abajo están los proyectos, con lo que he hecho yo en cada uno. Busco mi primer puesto estable como Data Analyst junior.
+Este año me he formado en el Bootcamp de Data Analytics & IA de Adalab. Abajo están los proyectos, con lo que he hecho yo en cada uno. Busco un puesto como Data Analyst.
 
 ---
 
