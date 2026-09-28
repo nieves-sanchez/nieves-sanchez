@@ -26,9 +26,9 @@ Este año me he formado en el Bootcamp de Data Analytics & IA de Adalab. Abajo e
 |---|---|---|---|
 | [HR Attrition](https://github.com/nieves-sanchez/hr-attrition-end-to-end-analytics) · equipo de 3 | ¿Qué perfiles tienen más riesgo de rotación? | Base de datos en 3FN y pipeline ETL | Python, MySQL, SQL |
 | [Mental Health in Tech](https://github.com/nieves-sanchez/mental-health-tech-powerbi-analysis) · equipo de 2 | ¿Cómo afecta la salud mental al trabajo en tecnología? | EDA y 3 de los 6 dashboards | Python, Power BI |
-| [Vuelos y fidelización](https://github.com/nieves-sanchez/bda-modulo-3-evaluacion-final-nieves-sanchez) · individual | ¿Cómo reservan los clientes de una aerolínea? | Todo (prueba técnica de 48 h) | Python, pandas, Seaborn |
+| [Vuelos y fidelización](https://github.com/nieves-sanchez/vuelos-fidelizacion) · individual | ¿Cómo reservan los clientes de una aerolínea? | Todo (prueba técnica de 48 h) | Python, pandas, Seaborn |
 | [Resistencia bacteriana en Europa](https://github.com/nieves-sanchez/antibiotic-resistance-eu-tableau) · equipo de 2 | ¿Más consumo de antibióticos, más resistencia? | Datos de consumo, integración y dashboards de consumo | Python, Tableau |
-| [SQL · Sakila](https://github.com/nieves-sanchez/bda-modulo-2-evaluacion-final-nieves-sanchez) · individual | Evaluación de SQL | 24 consultas comentadas | MySQL |
+| [SQL · Sakila](https://github.com/nieves-sanchez/sql-sakila) · individual | Evaluación de SQL | 24 consultas comentadas | MySQL |
 | [MusicStream](https://github.com/nieves-sanchez/musicstream-listening-trends-analysis) · equipo de 4 | ¿Cambió la música con la pandemia? | Extracción de Last.fm y primer modelo de la BD | Python, APIs, MySQL |
 
 También he hecho un [trivial en Python](https://github.com/nieves-sanchez/proyecto-da-promo-64-modulo-1-team-2), el primer proyecto del bootcamp, en el que he sido la Scrum Master: 9 milestones y un tablero Kanban con los issues de cada fase.
